@@ -7,8 +7,6 @@
 <p align="center">사용자 경험을 고민하며 성장 중 입니다.</p>
 <p align="center">감각적이고 효율적인 UI/UX 구현을 추구합니다.</p>
 
----
-
 <h2 align="center">🛠️ Skills</h2>
 
 <h3 align="center">🔹 Frontend</h3>
@@ -29,8 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
 
 <h2 align="center">📊 Top Languages</h2>
 <p align="center">
